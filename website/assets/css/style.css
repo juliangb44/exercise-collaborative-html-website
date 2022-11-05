@@ -1,3 +1,36 @@
 body{
     background: #BDBDBD;
 }
+. {
+    background-color: black;
+}
+.navbar-brand {
+    color: grey;
+}
+.nav-link {
+    color: grey;
+}
+.nav-link.disabled {
+    color: grey;
+}
+.container {
+    max-width: none;
+    background-image: url(/website/assets/img/bg.jpg);
+    background-size: cover;
+    min-height: 400px;
+    padding-top: 50px;
+}
+h1 {
+    font-size: 92px;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    color: #35332E;
+}
+h2 {
+    font-size: 58px;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+    color: #35332E;
+}
